@@ -4,3 +4,4 @@
 0.0.0.0 steampowered.com
 0.0.0.0 minecraft.net
 0.0.0.0 riotgames.com
+0.0.0.0 jogos360.com.br
