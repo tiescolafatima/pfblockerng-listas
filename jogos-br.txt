@@ -5,3 +5,18 @@
 0.0.0.0 minecraft.net
 0.0.0.0 riotgames.com
 0.0.0.0 jogos360.com.br
+0.0.0.0 poki.com
+0.0.0.0 friv.com
+0.0.0.0 gameforkids.net
+0.0.0.0 girlsgogames.com
+0.0.0.0 primarygames.com
+0.0.0.0 gamesgames.com
+0.0.0.0 kizi.com
+0.0.0.0 crazygames.com
+0.0.0.0 silvergames.com
+0.0.0.0 agame.com
+0.0.0.0 twoplayergames.org
+0.0.0.0 y8.com
+0.0.0.0 ABCya.com
+0.0.0.0 CoolMathGames.com
+
