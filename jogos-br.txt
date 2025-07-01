@@ -19,4 +19,5 @@
 0.0.0.0 y8.com
 0.0.0.0 ABCya.com
 0.0.0.0 CoolMathGames.com
+0.0.0.0 clickjogos.com
 
