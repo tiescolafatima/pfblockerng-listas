@@ -20,4 +20,5 @@
 0.0.0.0 ABCya.com
 0.0.0.0 CoolMathGames.com
 0.0.0.0 clickjogos.com
-
+0.0.0.0 shellshock.io
+0.0.0.0 shellshock.com
