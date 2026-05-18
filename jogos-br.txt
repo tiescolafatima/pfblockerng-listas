@@ -22,3 +22,5 @@
 0.0.0.0 clickjogos.com
 0.0.0.0 shellshock.io
 0.0.0.0 shellshock.com
+0.0.0.0 gartic.io
+0.0.0.0 gartic.com
